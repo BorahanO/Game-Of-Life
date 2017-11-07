@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Game Of Life.data.unityweb",
+"asmCodeUrl": "Game Of Life.asm.code.unityweb",
+"asmMemoryUrl": "Game Of Life.asm.memory.unityweb",
+"asmFrameworkUrl": "Game Of Life.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
